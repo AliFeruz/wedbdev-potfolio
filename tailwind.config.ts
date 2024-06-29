@@ -27,6 +27,19 @@ const config = {
     },
     extend: {
       colors: {
+        'bgreen': {
+        '50': '#effef7',
+        '100': '#d9ffee',
+        '200': '#b5fdde',
+        '300': '#7cf9c4',
+        '400': '#3ceca2',
+        '500': '#12d585',
+        '600': '#08b16b',
+        '700': '#0b8a56',
+        '800': '#0e6d47',
+        '900': '#0e593c',
+        '950': '#013220',
+    },
         black: {
           DEFAULT: "#000",
           100: "#000319",
@@ -42,7 +55,7 @@ const config = {
           "100": "#E4ECFF",
           '200': '#67e8f9'
         },
-        purple: "#CBACF9",
+        purple: "#86198f",
         border: "hsl(var(--border))",
         input: "hsl(var(--input))",
         ring: "hsl(var(--ring))",
